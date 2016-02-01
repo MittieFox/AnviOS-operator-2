@@ -1,0 +1,9 @@
+c:\users\aspit\documents\visual studio 2015\Projects\anvifox\anvifox\bin\Debug\anvifox.exe.config
+c:\users\aspit\documents\visual studio 2015\Projects\anvifox\anvifox\bin\Debug\anvifox.exe
+c:\users\aspit\documents\visual studio 2015\Projects\anvifox\anvifox\bin\Debug\anvifox.pdb
+c:\users\aspit\documents\visual studio 2015\Projects\anvifox\anvifox\obj\Debug\anvifox.csprojResolveAssemblyReference.cache
+c:\users\aspit\documents\visual studio 2015\Projects\anvifox\anvifox\obj\Debug\anvifox.Properties.Resources.resources
+c:\users\aspit\documents\visual studio 2015\Projects\anvifox\anvifox\obj\Debug\anvifox.csproj.GenerateResource.Cache
+c:\users\aspit\documents\visual studio 2015\Projects\anvifox\anvifox\obj\Debug\anvifox.exe
+c:\users\aspit\documents\visual studio 2015\Projects\anvifox\anvifox\obj\Debug\anvifox.pdb
+c:\users\aspit\documents\visual studio 2015\Projects\anvifox\anvifox\obj\Debug\anvifox.Tyccoon.resources
